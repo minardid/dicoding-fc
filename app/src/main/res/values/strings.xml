@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">DicodingFC</string>
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+    </array>
+
+    <string-array name="club_description">
+        <item>This is description Barcelona FC This is description Barcelona FC This is description Barcelona FC This is description Barcelona FC This is description Barcelona FC</item>
+        <item>This is description Real Madrid FC This is description Real Madrid FC This is description Real Madrid FC This is description Real Madrid FC This is description Real Madrid FC</item>
+        <item>This is description Bayern Munchen FC This is description Bayern Munchen FC This is description Bayern Munchen FC This is description Bayern Munchen FC This is description Bayern Munchen FC</item>
+        <item>This is description Manchester City FC This is description Manchester City FC This is description Manchester City FC This is description Manchester City FC This is description Manchester City FC This is description Manchester City FC</item>
+        <item>This is description Manchester United FC This is description Manchester United FC This is description Manchester United FC This is description Manchester United FC This is description Manchester United FC This is description Manchester United FC</item>
+        <item>This is description Chelsea FC This is description Chelsea FC This is description Chelsea FC This is description Chelsea FC This is description Chelsea FC This is description Chelsea FC</item>
+        <item>This is description AC Milan FC This is description AC Milan FC This is description AC Milan FC This is description AC Milan FC This is description AC Milan FC This is description AC Milan FC</item>
+        <item>This is description Arsenal FC This is description Arsenal FC This is description Arsenal FC This is description Arsenal FC This is description Arsenal FC This is description Arsenal FC</item>
+    </string-array>
+
+</resources>
