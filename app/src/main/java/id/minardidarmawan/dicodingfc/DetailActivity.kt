@@ -27,7 +27,7 @@ class DetailActivity : AppCompatActivity() {
     lateinit var logoImageView: ImageView
     lateinit var descriptionTextView: TextView
 
-
+// testing update git
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
